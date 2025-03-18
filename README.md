@@ -20,17 +20,17 @@
  
    <img title="CSS"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuyLrpuKlKe8VdORfiCe6t0CbdIJoZ_4wynQ&s" alt="CSS" width="45" height="45"/>
  
-   <img title="JavaScript"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/800px-Unofficial_JavaScript_logo_2.svg.png" alt="mysql" width="45" height="45"/>
+   <img title="JavaScript"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/800px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" width="45" height="45"/>
  
-   <img title="Angular"  src="https://avatars.githubusercontent.com/Angular" alt="mysql" width="45" height="45"/>
+   <img title="Angular"  src="https://avatars.githubusercontent.com/Angular" alt="Angular" width="45" height="45"/>
  
    <img title="TypeScript"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAw6g643X_IP059eZ03Jh_kcr9-a-oQpMdhQ&s" alt="TypeScript"     width="45" height="45"/>
  
-   <img title="Git"  src="https://avatars.githubusercontent.com/Git" alt="mysql" width="45" height="45"/>
+   <img title="Git"  src="https://avatars.githubusercontent.com/Git" alt="Git" width="45" height="45"/>
  
    <hr>
  
- <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ozodbek0002&layout=compact&theme=radical" alt="Ozodbek" />
- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ozodbek0002&show_icons=true&theme=gotham" alt="Ozodbek" />
+ <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilwadovc&layout=compact&theme=radical" alt="Doniyor" />
+ <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dilwadovc0002&show_icons=true&theme=gotham" alt="Doniyor" />
  
  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dilwadovc&theme=onestar&row=1&margin-w=15&margin-h=15&no-bg=true" alt="Doniyor" /></a> </p

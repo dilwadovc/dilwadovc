@@ -2,7 +2,7 @@
  💻 I know JavaScript & Angular & PHP & MYSQL & Laravel  \
  👨‍💻 I’m looking to collaborate on projects \
  💬 I'm 17-years old developer from Uzbekistan/Khorezm \
- 📫 Reach me on [![ Doniyor Davlatov ](https://img.shields.io/badge/DoniyorDavlatov-30302f?style=flat&logo=telegram)](https://t.me/dilwadovc) <br> 
+ 📫 Reach me on [![ Doniyor Davlatov ](https://img.shields.io/badge/dilwadovc-30302f?style=flat&logo=telegram)](https://t.me/dilwadovc) <br> 
  contact me
  🪐<a href="https://t.me/dilwadovvc" target="/blank"> Portfolio </a>
  

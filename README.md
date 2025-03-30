@@ -1,5 +1,5 @@
 💫 I like creating Website and Telegram bot\
- 💻 I know JavaScript & Angular & PHP & MYSQL & Laravel  \
+ 💻 I know HTML & CSS & JavaScript & Typescript & Git & Angular  \
  👨‍💻 I’m looking to collaborate on projects \
  💬 I'm 17-years old developer from Uzbekistan/Khorezm \
  📫 Reach me on [![ Doniyor Davlatov ](https://img.shields.io/badge/DoniyorDavlatov-30302f?style=flat&logo=telegram)](https://t.me/dilwadovvc) <br> 

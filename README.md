@@ -36,3 +36,5 @@
  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dilwadovc&show_icons=true&theme=gotham" alt="Doniyor" />
  
  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dilwadovc&theme=onestar&row=1&margin-w=15&margin-h=15&no-bg=true" alt="Doniyor" /></a> </p
+
+![snake gif](https://github.com/dilwadovc/dilwadovc/blob/output/github-snake-dark.svg)

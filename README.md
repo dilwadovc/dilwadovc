@@ -4,7 +4,7 @@
  💬 I'm 17-years old developer from Uzbekistan/Khorezm \
  📫 Reach me on [![ Doniyor Davlatov ](https://img.shields.io/badge/DoniyorDavlatov-30302f?style=flat&logo=telegram)](https://t.me/dilwadovvc) <br> 
  contact me
- 🪐<a href="https://t.me/dilwadovvc" target="/blank"> Portfolio </a>
+ 🪐<a href="https://portfolio-eight-chi-2u2mgr17lm.vercel.app/" target="/blank"> Portfolio </a>
  
  
 
